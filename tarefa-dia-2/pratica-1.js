@@ -8,3 +8,9 @@
 
     
 
+    console.log (nome)
+    console.log (email)
+    console.log (prosissao)
+    console.log (idade)
+    console.log (viagemDosSonhos)
+    
